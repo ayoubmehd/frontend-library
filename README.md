@@ -1,6 +1,6 @@
 # A simple Frontend Library
 
-This is a fronend library that's is not recomended to use in production.
+This is a front-end library that's is not recomended to use in production.
 
 ## What it support
 - Reactive state update
