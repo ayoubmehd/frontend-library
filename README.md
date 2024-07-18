@@ -20,4 +20,4 @@ Don't know what else it doesn't support, if you have an idea please open a PR
 
 usage
 
-still not on npm so just clone this repo and check src/counter.ts and main.ts
+still not on npm so just clone this repo and check [counter.ts](/src/counter.ts) and [main.ts](/src/main.ts)
