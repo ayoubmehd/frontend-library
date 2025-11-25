@@ -4,7 +4,7 @@ This is a front-end library that's is not recomended to use in production.
 
 ## What it support
 - Reactive state update
-- Not sure if it's fast, it's for sure faster than React
+- No idea how much fast it is
 
 ## What it doesn't support
 - JSX
