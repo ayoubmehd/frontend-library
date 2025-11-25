@@ -10,7 +10,7 @@ This is a front-end library that's is not recomended to use in production.
 - JSX
 - List rendering
 - Components
-Don't know what else it doesn't support, if you have an idea please open a PR
+- Don't know what else it doesn't support, if you have an idea please open a PR
 
 ## Planning to support
 
