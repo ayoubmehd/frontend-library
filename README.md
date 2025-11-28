@@ -14,6 +14,7 @@ This is a front-end library that's is not recomended to use in production.
 
 ## Planning to support
 
+- JSX
 - List rendering
 - Watchers & computed properties
 - Components
